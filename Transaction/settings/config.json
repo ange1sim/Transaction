@@ -1,0 +1,9 @@
+{
+    "server_port":"1010",
+    "pg_settings":{
+    "host":"127.0.0.1",
+    "user":"postgres",
+    "dbname":"trnx",
+    "password":"postgres"
+     }
+    }
